@@ -5,7 +5,7 @@ Hello, I'm Breno!
 
 Passionate about technology.
 
-Remotely works at ioasys developing applications in `React` and `Angular`.
+Remotely works at **ioasys** developing applications in `React` and `Angular`.
 
 In my spare time I like to study about `Design Patterns` and `Software Architecture`.
 
