@@ -1,6 +1,6 @@
 Hi, I'm Breno!
 
-💻 Front-end Engineer at `ioasys`<br>
+💻 Tech Lead | Front-end Engineer at `ioasys`<br>
 🏡 Brazilian, Based in São Paulo, SP
 
 Passionate about technology.
