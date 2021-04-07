@@ -5,6 +5,4 @@ Hi, I'm Breno!
 
 Passionate about technology.
 
-Enthusiast of `functional programming`, `software architecture` and `linux`.
-
-Currently studying `Elixir` and `Phoenix Framework`.
+Currently studying `Node JS`, `Clean Architecture` and `Serverless`.
