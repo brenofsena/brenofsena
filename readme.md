@@ -1,6 +1,6 @@
 Hi, I'm Breno!
 
-💻 Tech Lead | Front-end Engineer at [Ioasys](https://ioasys.com.br/) <br>
+💻 Front-end Engineer at [Hotmart](https://www.hotmart.com/) <br>
 🏡 Brazilian, Based in São Paulo, SP
 
 Passionate about technology.
