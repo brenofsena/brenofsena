@@ -1,7 +1,7 @@
 Hi, I'm Breno!
 
-💻 Front-end Engineer at [Hotmart](https://www.hotmart.com/) <br>
-🏡 Brazilian, Based in São Paulo, SP
+💻 &nbsp; Front-end Engineer at [Hotmart](https://www.hotmart.com/) <br>
+🏡 &nbsp; Brazilian, Based in São Paulo, SP
 
 Passionate about technology.
 
