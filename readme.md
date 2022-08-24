@@ -1,6 +1,6 @@
 # Hi, I'm Breno!
 
-💻 &nbsp; Front-end Engineer at [Hotmart](https://www.hotmart.com/) <br>
+💻 &nbsp; Tech Lead | Front-end Engineer at [Hotmart](https://www.hotmart.com/) <br>
 🏡 &nbsp; Brazilian, based in São Paulo - SP
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:breno.fsena@gmail.com "Connect via Email")
